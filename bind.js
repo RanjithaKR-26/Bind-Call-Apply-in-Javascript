@@ -1,6 +1,6 @@
-// var func = function () {
-//   console.log(this);
-// }.bind(1);
+ var func = function () {
+  console.log(this);
+ }.bind(1);
 
 // func();
 // function checkFun(a, b, c) {
